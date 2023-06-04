@@ -8,3 +8,7 @@ Funções em Python para:
 - Retorna item pelo primary key
 - Retorna item pelo sort key
 - Deleta um item específico
+
+## Atualização 04/06/2023
+- Foram criados módulos em python utilizando classes que facilitam a manipulacao
+dos dados na tabela
